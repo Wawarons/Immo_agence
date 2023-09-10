@@ -1,0 +1,23 @@
+Front
+
+Page Accueil
+Lister les 4 derniers biens 
+
+//////////////////////////////////////////////
+Page /biens 
+
+Lister les 4 derniers biens
+Filter:
+	- surface mini
+	- Nombre de pièces 
+	- Budget max 
+	- mots clefs 
+	
+///////////////////////////////////////////////
+Page /bien/{property}
+
+	- Formulaire de contact
+	- Affiche les détails du bien 
+	
+
+	
